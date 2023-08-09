@@ -15,14 +15,16 @@ In this analysis, we split our data to traning and test sets. Secondly, we defin
 
   
  The balanced accuracy score of the model is: 0.9520479254722232
- precision    recall  f1-score   support
+ 
 
-           0       1.00      0.99      1.00     18765
-           1       0.85      0.91      0.88       619
+                                precision   recall  f1-score   support
 
-    accuracy                           0.99     19384
-   macro avg       0.92      0.95      0.94     19384
-weighted avg       0.99      0.99      0.99     19384
+                       0       1.00      0.99      1.00     18765
+                       1       0.85      0.91      0.88       619
+
+                accuracy                           0.99     19384
+               macro avg       0.92      0.95      0.94     19384
+            weighted avg       0.99      0.99      0.99     19384
 
 
 
@@ -30,15 +32,16 @@ weighted avg       0.99      0.99      0.99     19384
 
   
   The balanced accuracy score of the model is: 0.9945026387334079
-         precision    recall  f1-score   support
-
-           0       0.99      0.99      0.99     75036
-           1       0.99      0.99      0.99     75036
-
-    accuracy                           0.99    150072
-   macro avg       0.99      0.99      0.99    150072
-weighted avg       0.99      0.99      0.99    150072
   
+                             precision    recall  f1-score   support
+
+                       0       0.99      0.99      0.99     75036
+                       1       0.99      0.99      0.99     75036
+
+                accuracy                           0.99    150072
+               macro avg       0.99      0.99      0.99    150072
+            weighted avg       0.99      0.99      0.99    150072
+ 
   
 
 ## Summary
